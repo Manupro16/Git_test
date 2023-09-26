@@ -1,0 +1,1 @@
+hello this is the start of how to use GIT and the command line
