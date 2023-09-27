@@ -1,1 +1,3 @@
 this is a text for the GIT and the command line
+
+another change
